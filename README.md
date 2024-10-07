@@ -1,1 +1,2 @@
-# Atividade7.1
+Reprodução do código completo do vídeo TELA DE LOGIN com REACT.js.
+Utilização de Vite, extensão ES7 (snippet rafce) e hook useState, adição de uma imagem webp na pasta assets para ser então usado como background-image, criação de um componente (Login.jsx) e um arquivo de estilização para o mesmo (Login.css), instalação de pacotes de uma biblioteca de ícones(npm i @react-icons/all-files react-icons), código REACT para estruturar uma página de login no Login.jsx, importação deste no App.jsx e por fim, uso de seletores, propriedades e valores CSS no Login.css para melhorar a aparência da tela.
